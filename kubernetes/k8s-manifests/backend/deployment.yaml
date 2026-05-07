@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: saiyedin786/shopnow-backend:v1
+        image: saiyedin786/shopnow-backend:v2
         ports:
         - containerPort: 5000
         envFrom:
