@@ -9,11 +9,6 @@ service:
   port: 27017
   headlessName: mongo-headless
 
-stateful:
-  volume:
-    storageClassName: gp2
-    storage: 5Gi
-
 resources:
   requests:
     cpu: 200m
@@ -26,9 +21,5 @@ readinessProbe:
   initialDelaySeconds: 20
   periodSeconds: 10
   timeoutSeconds: 5
-
-persistentVolumeClaimRetentionPolicy:
-  whenDeleted: Delete
-  whenScaled: Delete
 
 terminationGracePeriodSeconds: 30
