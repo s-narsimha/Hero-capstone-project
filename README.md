@@ -403,15 +403,13 @@ Through this project I gained hands-on experience with:
 
 DevOps Engineer | Cloud Enthusiast | Kubernetes Practitioner
 
-GitHub: https://github.com/<your-github-username>
+GitHub: https://github.com/saiyedin786
 
-LinkedIn: https://linkedin.com/in/<your-profile>
+
 
 ---
 
-# ⭐ Support
 
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 # steps followed
 
