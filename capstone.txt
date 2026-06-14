@@ -1,29 +1,16 @@
-
-
-
 https://ubuntu.com/download/wsl
-
-
-
-
-
 
 1. create Iam user
 aws configure
 
-
 2. creating an jenkinsmaster ec2 instance using terraform
 
-
-
 3. ansible
-
 
 update public ip in hosts.ini
 
 open ubuntu terminal
 if not download from https://ubuntu.com/download/wsl
-
 
 cd /mnt/c/Users/Admin/Desktop/herovired/Hero-capstone-project/terraform
 cp capstone-user-key.pem ~/
@@ -110,14 +97,7 @@ test through jenkins system
 10. dockerhub jenkins integration:
 generate token in dockerhub
 
-
-
-
 and than update in jenkins credentials
-
-
-
-
 
 11. eks cluster setup (manual)
 
