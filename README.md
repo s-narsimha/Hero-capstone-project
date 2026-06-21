@@ -405,6 +405,20 @@ DevOps Engineer | Cloud Enthusiast | Kubernetes Practitioner
 
 GitHub: https://github.com/saiyedin786
 
+This repository contains the Capstone Project completed collaboratively by *Group 1 (Batch 14)* as part of the HeroVired Multi-Cloud Architecture & DevOps Program.
+
+Our team worked together throughout the project by following the official capstone guidelines, performing all required hands-on practical implementations, and applying DevOps best practices to build a complete end-to-end CI/CD pipeline for a containerized web application on AWS EKS.
+
+The project covers Infrastructure as Code, configuration management, continuous integration and deployment, containerization, Kubernetes orchestration, security scanning, and monitoring using industry-standard DevOps tools.
+
+*Group Members:*
+
+* Ismail Abdulrahim Saiyed
+* Ritesh Sharma
+* Saurabh Suman
+* Hari Kumar
+* S. Narsimha Deekshitulu
+
 
 
 ---
