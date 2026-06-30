@@ -401,7 +401,7 @@ Through this project I gained hands-on experience with:
 
 **S Narsimha**
 
-DevOps Engineer | Cloud Enthusiast | Kubernetes Practitioner
+DevOps Engineer | Cloud Enthusiast
 
 GitHub: https://github.com/s-narsimha
 
