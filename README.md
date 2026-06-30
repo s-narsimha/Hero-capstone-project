@@ -399,11 +399,11 @@ Through this project I gained hands-on experience with:
 
 # 👨‍💻 Author
 
-**Ismail Saiyed**
+**S Narsimha**
 
 DevOps Engineer | Cloud Enthusiast | Kubernetes Practitioner
 
-GitHub: https://github.com/saiyedin786
+GitHub: https://github.com/s-narsimha
 
 This repository contains the Capstone Project completed collaboratively by *Group 1 (Batch 14)* as part of the HeroVired Multi-Cloud Architecture & DevOps Program.
 
